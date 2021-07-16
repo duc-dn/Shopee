@@ -1,0 +1,3 @@
+position: fixed;
+top, left so với vị trí của màn hình không phải so với thằng cha
+của nó
