@@ -1,3 +1,9 @@
 position: fixed;
 top, left so với vị trí của màn hình không phải so với thằng cha
 của nó
+
+- Thứ tự
+gird wide
+row
+col l-? m-? c-?
+Class Name
